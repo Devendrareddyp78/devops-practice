@@ -1,0 +1,4 @@
+I'm new to Git, I want to master it.
+This is my testing message 
+Hello
+This is my second day learning Git
